@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+We are OAK - Original Actors of Kora
+
 <!--
 
 **Here are some ideas to get you started:**
